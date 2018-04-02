@@ -20,8 +20,6 @@ class Car(){
     fun gettype(): String{
         return this.type!!
     }
-
-
 }
 
 fun main(args: Array<String>){
